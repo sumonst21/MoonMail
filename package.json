@@ -40,6 +40,6 @@
     "eslint-plugin-react": "^7.7.0",
     "serverless-meta-sync": "^0.1.0",
     "serverless-runtime-babel": "github:serverless/serverless-runtime-babel",
-    "uuid": "^2.0.1"
+    "uuid": "^14.0.0"
   }
 }
